@@ -2,4 +2,4 @@
 
 ## Repositorio de prácticas para la assignatura de IAW
 
-Incluye a continuación tu nombre y apellidos:
+Incluye a continuación tu nombre y apellidos: Adrián Bertó Murgui
