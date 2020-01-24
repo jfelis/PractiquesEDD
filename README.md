@@ -2,5 +2,5 @@
 
 ## Repositorio de prácticas para la assignatura de IAW
 
-Incluye a continuación tu nombre y apellidos: Álvaro Fernández Martínez
+Incluye a continuación tu nombre y apellidos: Álvaro Fernández Martínez.
                                                                           
